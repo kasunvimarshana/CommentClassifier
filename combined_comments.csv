@@ -1,0 +1,95 @@
+comment,rating,toxicity
+"The product is excellent, I love it!",5,0
+"Not satisfied with the service, very poor experience.",1,1
+"Great app, very user-friendly interface.",4,0
+"This product sucks!",1,1
+"Outstanding service, highly recommended!",5,0
+"Terrible experience, would never use again.",1,1
+"Very helpful customer support, thank you!",5,0
+"Disgusting! I hate it.",1,1
+"This is the worst app I've ever used.",1,1
+"I can't stop using this app, it's addictive!",5,0
+"The customer service team was rude and unhelpful.",1,1
+"This product exceeded my expectations!",5,0
+"I regret buying this product, waste of money.",2,1
+"The interface is confusing and poorly designed.",2,1
+"Excellent product, highly recommended!",5,0
+"The app crashes constantly, very frustrating.",2,1
+"I love everything about this product!",5,0
+"Stay away from this product, it's a scam.",1,1
+"Fast delivery and great packaging!",5,0
+"This company has terrible customer service.",1,1
+"Awesome app, can't live without it!",5,0
+"This product is overpriced for its quality.",3,0
+"Horrible experience, I want a refund.",1,1
+"I'm impressed by the quality of this product.",5,0
+"The worst customer service I've ever experienced.",1,1
+"This app is amazing, it makes my life so much easier!",5,0
+"The product arrived damaged and late.",1,1
+"I wish I had never bought this product.",1,1
+"Easy to use and intuitive interface.",5,0
+"Unreliable product, constantly malfunctions.",2,1
+"Great value for the price, highly recommend!",5,0
+"This company doesn't care about its customers.",1,1
+"Love the product, hate the company's policies.",4,1
+"Appalling service, avoid at all costs.",1,1
+"Excellent customer service, very responsive!",5,0
+"The worst product I've ever purchased.",1,1
+"I'm addicted to this app, can't stop using it!",5,0
+"This product is a waste of money.",1,1
+"Quick and efficient service, thank you!",5,0
+"The app is full of bugs, needs improvement.",2,1
+"This product changed my life, highly recommend!",5,0
+"The company's unethical practices are appalling.",1,1
+"Absolutely dreadful experience, would not recommend.",1,1
+"Best app ever, can't imagine life without it!",5,0
+"This product is a game-changer!",5,0
+"Poorly made product, doesn't work as advertised.",2,1
+"Great customer service, very helpful!",5,0
+"Stay away from this app, it's a waste of time.",1,1
+"Highly disappointed with the quality of this product.",1,1
+"This app crashes every time I try to use it.",2,1
+"The best customer service I've ever encountered!",5,0
+"Terrible product, do not buy.",1,1
+"This app is perfect, no complaints!",5,0
+"Unacceptable service, avoid this company.",1,1
+"Good product, but could use some improvements.",3,0
+"Awful experience, wouldn't recommend to anyone.",1,1
+"I'm impressed by the speed of delivery.",5,0
+"Absolutely love this product, it exceeded my expectations!",5,0
+"The worst app I've ever installed.",1,1
+"Great product, worth every penny!",5,0
+"This company is a scam, stay away!",1,1
+"Easy to use app, very user-friendly.",5,0
+"Horrible customer service, they never respond.",1,1
+"I'm disappointed with the quality of this product.",2,1
+"This app constantly freezes, very frustrating.",2,1
+"Exceptional service, highly recommend!",5,0
+"The product arrived damaged, very disappointed.",1,1
+"Great app, does everything I need it to!",5,0
+"This company is unreliable, do not trust them.",1,1
+"Highly satisfied with my purchase, thank you!",5,0
+"This product is garbage, total waste of money.",1,1
+"App crashes every time I try to open it.",2,1
+"I've had a terrible experience with this company.",1,1
+"I can't believe how bad this product is.",1,1
+"Amazing customer service, very responsive!",5,0
+"This app is useless, don't bother downloading it.",1,1
+"Excellent product, exceeded my expectations!",5,0
+"Stay away from this company, they're a scam.",1,1
+"User-friendly interface, easy to navigate.",5,0
+"Absolutely appalling service, would not recommend.",1,1
+"This product is a lifesaver, highly recommend!",5,0
+"Horrendous experience, avoid this company at all costs.",1,1
+"I'm impressed by the quality of this product.",5,0
+"The app keeps crashing, very frustrating.",2,1
+"Excellent customer service, very helpful and friendly!",5,0
+"This product is a rip-off, do not buy!",1,1
+"Great app, highly recommend to everyone!",5,0
+"This company doesn't care about its customers.",1,1
+"This product is amazing, it changed my life!",5,0
+"Poor quality product, wouldn't recommend.",2,1
+"Outstanding service, couldn't be happier!",5,0
+"Absolutely disgusted with this company's practices.",1,1
+"Fantastic product, worth every penny!",5,0
+"Stay away from this app, it's a scam.",1,1
